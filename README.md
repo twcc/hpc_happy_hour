@@ -1,4 +1,4 @@
-# HPC 的快樂時光 ( HPC happy hour)
+# HPC 的快樂時光 (HPC happy hour)
 
 ## introduction
 - 提供適用 Taiwania 2 環境的 Open MPI 容器範本，能依此範本建立屬於你的跨節點應用程式
