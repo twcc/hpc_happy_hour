@@ -63,7 +63,7 @@ Stage0 += slurm_pmi2(prefix='/usr/local/pmi')
 
 # OpenMPI
 Stage0 += openmpi(cuda=True, ucx=True, infiniband=False, ldconfig=True, 
-                  version='4.1.1',
+                  version=twnia2_openmpi,
                   disable_static=True,
                   enable_shared=True,
                   enable_mpi_fortran=True,
